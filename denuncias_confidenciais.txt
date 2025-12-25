@@ -1,0 +1,51 @@
+ID_TICKET;DATA;DEPARTAMENTO;RELATO_ANONIMO
+9940984d;2025-12-24;Financeiro;Durante o expediente de ontem, o carpete da sala de reuniões está com cheiro de mofo. Isso está atrapalhando meu desempenho.
+8ee9370e;2025-12-24;RH;Infelizmente presenciei uma situação onde o diretor financeiro pediu para alterar a data da nota fiscal. Isso vai contra as regras da empresa.
+c5eca4dc;2025-12-24;Operações;Venho por meio deste canal informar que a música ambiente do refeitório é muito alta. Isso está atrapalhando meu desempenho.
+d3acc1da;2025-12-24;RH;Notei algo errado: o carpete da sala de reuniões está com cheiro de mofo. Fico no aguardo de uma solução.
+a5b822c8;2025-12-24;RH;Estou preocupado porque a música ambiente do refeitório é muito alta. Fico no aguardo de uma solução.
+2413d5dd;2025-12-24;TI;Notei algo errado: o carpete da sala de reuniões está com cheiro de mofo. Espero que a diretoria resolva.
+86eaad7d;2025-12-24;Vendas;Estou preocupado porque os monitores novos ainda não foram instalados. Fico no aguardo de uma solução.
+1a1ad0c3;2025-12-24;RH;Quero fazer uma denúncia anônima pois acho que a parede da recepção ficaria melhor azul. Alguém precisa fazer alguma coisa.
+ed71def9;2025-12-24;Marketing;Notei algo errado: sofri assédio moral na frente de todos, gritaram comigo. Espero que a diretoria resolva.
+7d647ab7;2025-12-24;RH;Durante o expediente de ontem, o carpete da sala de reuniões está com cheiro de mofo. Isso está atrapalhando meu desempenho.
+348e070c;2025-12-24;Jurídico;Infelizmente presenciei uma situação onde o diretor financeiro pediu para alterar a data da nota fiscal. Fico no aguardo de uma solução.
+969bfc8a;2025-12-24;Jurídico;Infelizmente presenciei uma situação onde a música ambiente do refeitório é muito alta. Isso está atrapalhando meu desempenho.
+1b51540b;2025-12-24;TI;Infelizmente presenciei uma situação onde o carpete da sala de reuniões está com cheiro de mofo. Espero que a diretoria resolva.
+3d6a2ace;2025-12-24;TI;Venho por meio deste canal informar que a porta de emergência está bloqueada por caixas. Isso vai contra as regras da empresa.
+165ef299;2025-12-24;Marketing;Quero fazer uma denúncia anônima pois acho que a parede da recepção ficaria melhor azul. Espero que a diretoria resolva.
+234674c7;2025-12-24;TI;Gostaria de relatar que vi um funcionário copiando o banco de dados de clientes. Alguém precisa fazer alguma coisa.
+b5b79c59;2025-12-24;Vendas;Infelizmente presenciei uma situação onde sofri assédio moral na frente de todos, gritaram comigo. Isso é inadmissível na nossa cultura.
+1a84b38f;2025-12-24;TI;Infelizmente presenciei uma situação onde o ar condicionado do 3º andar está pingando nas mesas. Aguardo providências urgentes.
+9565a457;2025-12-24;Jurídico;Infelizmente presenciei uma situação onde o diretor financeiro pediu para alterar a data da nota fiscal. Isso é inadmissível na nossa cultura.
+2665d6dd;2025-12-24;Vendas;Notei algo errado: a porta de emergência está bloqueada por caixas. Aguardo providências urgentes.
+9267820c;2025-12-24;Vendas;Quero fazer uma denúncia anônima pois a porta de emergência está bloqueada por caixas. Isso está atrapalhando meu desempenho.
+5a275009;2025-12-24;Operações;Infelizmente presenciei uma situação onde os monitores novos ainda não foram instalados. Isso está atrapalhando meu desempenho.
+ab7bfeb8;2025-12-24;Jurídico;Gostaria de relatar que o carpete da sala de reuniões está com cheiro de mofo. Espero que a diretoria resolva.
+9b5167ad;2025-12-24;Operações;Estou preocupado porque os monitores novos ainda não foram instalados. Aguardo providências urgentes.
+4d447d1a;2025-12-24;TI;Gostaria de relatar que acho que a parede da recepção ficaria melhor azul. Alguém precisa fazer alguma coisa.
+f89dcf33;2025-12-24;Vendas;Estou preocupado porque deveriam liberar bermuda nas sextas-feiras. Isso vai contra as regras da empresa.
+c3cf508d;2025-12-24;TI;Durante o expediente de ontem, sofri assédio moral na frente de todos, gritaram comigo. Espero que a diretoria resolva.
+e270a287;2025-12-24;RH;Durante o expediente de ontem, o supervisor está obrigando a equipe a trabalhar sem bater ponto. Aguardo providências urgentes.
+eec50a1a;2025-12-24;Vendas;Infelizmente presenciei uma situação onde faltam cadeiras ergonômicas, estou com dor nas costas. Isso é inadmissível na nossa cultura.
+ab5422ad;2025-12-24;Marketing;Notei algo errado: os monitores novos ainda não foram instalados. Isso está atrapalhando meu desempenho.
+db3a7bd4;2025-12-24;Marketing;Durante o expediente de ontem, a porta de emergência está bloqueada por caixas. Isso é inadmissível na nossa cultura.
+ada5e3e4;2025-12-24;Financeiro;Quero fazer uma denúncia anônima pois suspeita de suborno na negociação com a empresa de limpeza. Alguém precisa fazer alguma coisa.
+8421b5d7;2025-12-24;Jurídico;Gostaria de relatar que a impressora do setor fiscal está sem toner há dias. Isso vai contra as regras da empresa.
+a7dfc85d;2025-12-24;Vendas;Infelizmente presenciei uma situação onde os monitores novos ainda não foram instalados. Alguém precisa fazer alguma coisa.
+8b8c89f1;2025-12-24;Jurídico;Venho por meio deste canal informar que ouvi comentários preconceituosos do gestor na reunião. Isso é inadmissível na nossa cultura.
+2eac5fe4;2025-12-24;Marketing;Quero fazer uma denúncia anônima pois não gosto da marca de café que estão comprando. Aguardo providências urgentes.
+465ed5df;2025-12-24;RH;Gostaria de relatar que não gosto da marca de café que estão comprando. Fico no aguardo de uma solução.
+c1f539d5;2025-12-24;Marketing;Infelizmente presenciei uma situação onde o carpete da sala de reuniões está com cheiro de mofo. Isso é inadmissível na nossa cultura.
+7284c1d2;2025-12-24;Operações;Quero fazer uma denúncia anônima pois sofri assédio moral na frente de todos, gritaram comigo. Espero que a diretoria resolva.
+7327581b;2025-12-24;Operações;Venho por meio deste canal informar que deveriam liberar bermuda nas sextas-feiras. Isso está atrapalhando meu desempenho.
+554dcaf4;2025-12-24;Vendas;Durante o expediente de ontem, suspeita de suborno na negociação com a empresa de limpeza. Fico no aguardo de uma solução.
+dd364b08;2025-12-24;RH;Gostaria de relatar que o estacionamento deveria ser coberto para todos. Fico no aguardo de uma solução.
+e6266db8;2025-12-24;TI;Durante o expediente de ontem, o ar condicionado do 3º andar está pingando nas mesas. Isso está atrapalhando meu desempenho.
+931ca26d;2025-12-24;TI;Infelizmente presenciei uma situação onde o estacionamento deveria ser coberto para todos. Isso vai contra as regras da empresa.
+00c9d284;2025-12-24;Operações;Gostaria de relatar que não gosto da marca de café que estão comprando. Aguardo providências urgentes.
+e1006e1e;2025-12-24;Vendas;Infelizmente presenciei uma situação onde os monitores novos ainda não foram instalados. Aguardo providências urgentes.
+8ad69bfb;2025-12-24;Vendas;Notei algo errado: vi um funcionário copiando o banco de dados de clientes. Fico no aguardo de uma solução.
+eeab3836;2025-12-24;Jurídico;Notei algo errado: o carpete da sala de reuniões está com cheiro de mofo. Espero que a diretoria resolva.
+da96d304;2025-12-24;Vendas;Estou preocupado porque o ar condicionado do 3º andar está pingando nas mesas. Isso vai contra as regras da empresa.
+8e38a519;2025-12-24;Vendas;Venho por meio deste canal informar que a música ambiente do refeitório é muito alta. Isso vai contra as regras da empresa.
